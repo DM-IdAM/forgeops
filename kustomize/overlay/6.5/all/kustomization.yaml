@@ -1,4 +1,4 @@
-namespace: default
+namespace: my-namespace
 resources:
 - ../../../base/kustomizeConfig
 - ../../../base/forgeops-secrets
